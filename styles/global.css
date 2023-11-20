@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #000;
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    color: #000;
+    transition: opacity .25s ease;
+}
+
+a:hover {
+    opacity: .5;
+}
+
+img {
+    width: 100%;
+}
