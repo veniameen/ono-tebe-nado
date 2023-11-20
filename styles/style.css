@@ -259,15 +259,15 @@
 }
 
 .card_type_film {
-    background-image: url(./images/photo_1.png);
+    background-image: url(../images/photo_1.png);
 }
 
 .card_type_book {
-    background-image: url(./images/photo_2.png);
+    background-image: url(../images/photo_2.png);
 }
 
 .card_type_picture {
-    background-image: url(./images/photo_3.png);
+    background-image: url(../images/photo_3.png);
 }
 
 .card {
